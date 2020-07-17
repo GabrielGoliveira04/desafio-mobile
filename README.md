@@ -6,7 +6,7 @@
 
 ## Technologies
  
- - Firebase(Cloud firestore and storage) - To take informations about categories, products and banners.
+ - Firebase(Cloud firestore and storage) - To get informations about categories, products and banners.
  - Mobx - State Manegement
  - Hive - Local Storage(shopping-cart)
  - Slidy - Package manager
