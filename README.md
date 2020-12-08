@@ -11,11 +11,6 @@
  - Hive - Local Storage(shopping-cart)
  - Slidy - Package manager
 
-## Challenges
- 
- The most difficult thing to me was the deadline, because I worked on Friday, so I didn't really have two days. Besides the question of the time, I had some problems with fonts and images, because of that I used other font at the project.
-
-
 ## Design
 
  # Home
